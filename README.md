@@ -10,7 +10,7 @@ Hello! I'm Mohammed Islam, an aspiring Junior DevOps Engineer interested in auto
 
 - **Location**: West London
 - **Email**: ikram30002@gmail.com
-- **LinkedIn**: [](https://www.linkedin.com/in/mohammed-islam-735a85262/)
+- **LinkedIn**: https://www.linkedin.com/in/mohammed-islam-735a85262/
 
 ## 🛠️ Skills I am learning
 

@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Mohammed Islam, an aspiring Junior DevOps Engineer interested in automating and optimizing processes.
+Hello! I'm Mohammed Islam, an aspiring Junior DevOps Engineer.
 
 - **Location**: West London
 - **Email**: ikram30002@gmail.com

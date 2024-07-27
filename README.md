@@ -1,7 +1,3 @@
-
-
-I am learning how to use git 
-
 # Welcome to Mohammed Islam's GitHub Profile
 
 ## 🚀 About Me
